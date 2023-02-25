@@ -1,0 +1,13 @@
+{
+    "name": "charles/user-service",
+    "type": "library",
+    "require": {
+        "laravel/framework": "^10.1"
+    },
+    "authors": [
+        {
+            "name": "charles",
+            "email": "charlesmuojekwu@gmail.com"
+        }
+    ]
+}
